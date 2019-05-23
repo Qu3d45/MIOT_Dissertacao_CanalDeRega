@@ -5,7 +5,7 @@
 ###Título da Dissertação
 <br>Sistema de Monitorização de Canais de Rega
 
-###Palavras-Chave
+<b>Palavras-Chave</b>
 <br>Qualidade/Quantidade da Água, Comunicações: LoRa, GSM, MQTT, Sistemas Embebidos, Pycom, MSP430, ESP32
 
 ###Tema da Dissertação
@@ -18,7 +18,7 @@
 
 <br>Pranata, A. A., Lee, J. M., & Kim, D. S. (2017). Towards an IoT-based water quality monitoring system with brokerless pub/sub architecture. In 2017 IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN) (1–6), doi:10.1109/LANMAN.2017.7972166.
 
-<br>ong, B. P. & Kerkez, B. (2016). Real-time environmental sensor data: an application to water quality using web services. Environmental Modelling & Software, 84, 505-517, doi:10.1016/j.envsoft.2016.07.020.
+<br>Wong, B. P. & Kerkez, B. (2016). Real-time environmental sensor data: an application to water quality using web services. Environmental Modelling & Software, 84, 505-517, doi:10.1016/j.envsoft.2016.07.020.
 
 ###Orientador
 <br>João Carlos Martins
